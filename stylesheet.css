@@ -1,24 +1,49 @@
 body {
-	margin: 10px;
+  margin: 10px;
+  font-family: 'Times New Roman', serif;
 }
 
 h1 {
-	font-weight: bold;
-	font-size: 30px;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 0px;
 }
 
 h2 {
-	font-size: 24px;
+  font-size: 24px;
 }
 
 h3 {
-	font-size: 18px;
+  font-size: 18px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
-p.role {
-	font-weight: bold;
+ul {
+  padding-left: 18px;
+  margin-top: 4px;
 }
 
-#duration {
-	font-weight: bold;
+.personal-information {
+  margin-left: 14px;
+}
+
+.ks {
+  margin-left: 14px;
+}
+
+.mps {
+  margin-left: 14px;
+}
+
+.uconn {
+  margin-left: 14px;
+}
+
+.coursera {
+  margin-left: 14px;
+}
+
+.edx {
+  margin-left: 14px;
 }
